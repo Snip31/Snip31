@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student at the IUT of Blagnac in Networks and Telecoms. <br>I am interested in networks but especially in cybersecurity.<br>I am very keen on learning to use OSINT tools.<br>I am looking to improve my skills in programming languages such as C or Python.
+I am currently a student at the IUT of Blagnac in Networks and Telecoms. <br>I am interested in networks but especially in cybersecurity.<br>I am very keen on learning to use OSINT tools (MrHolmes, Holehe, Shodan, Google Dorks...).<br>I am looking to improve my skills in programming languages such as C or Python.
 
 
 ## 🌐 Socials:
