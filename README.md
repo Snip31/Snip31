@@ -4,7 +4,6 @@ I am currently a student at the IUT of Blagnac in Networks and Telecoms. <br>I a
 
 # 📊 TryHackMe Stats:
 
-![tryhackme stats](https://raw.githubusercontent.com/5nip/5nip/master/assets/thm_propic.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
